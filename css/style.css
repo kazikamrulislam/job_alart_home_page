@@ -1,0 +1,100 @@
+body{
+	background: url(../img/bacground.png);
+}
+
+header{
+	display: flex;
+	justify-content: space-between;
+	padding: 20px;
+}
+h5{
+	color: #fff;
+	margin-top: 5PX;
+}
+
+.logo{
+	height: 20PX;
+}
+
+.nav.justify-content-end a{
+	padding: 10px;
+	text-decoration: none;
+	color: #000;
+
+}
+
+.nav.justify-content-end{
+	padding: 5px;
+    font-size: 20px;
+
+}
+
+.nav.justify-content-end .get_alert {
+    background: #365899;
+    color: #fff;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+
+.heading1{
+	text-align: center;
+	align-items: center;
+	padding: 20px;
+}
+
+.heading2{
+	text-align: center;
+	align-items: center;
+	padding: 20px;
+	color: #365899;
+}
+
+
+.button2{
+	text-align: center;
+	padding: 20px;
+}
+
+.btn-group-lg>.btn, .btn-lg{
+	padding: 10px 25px;
+	font-size: 20px;
+	line-height: 1.5;
+	border-radius: 12px;
+	background-color: #365899;
+	border: none;
+}
+
+.button8 {
+    align-items: center;
+    text-align: center;
+}
+
+/*.button8 .first_line{
+	margin-top: 20px;
+}
+
+.button8 .second_line{
+	margin-top: 20px;
+}*/
+
+.button8 button{
+
+	text-align: center;
+	align-items: center;
+	min-width: 150px;
+	background-color: #8f8f8f;
+	color: #fff;
+	margin: 5px;
+}
+
+.site_footer{
+	background-color: #365899;
+	margin-top: 100px;
+	padding: 15px;
+}
+
+.site_footer a{
+	text-decoration: none;
+	color: #fff;
+
+}
